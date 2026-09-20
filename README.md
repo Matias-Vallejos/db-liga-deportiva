@@ -44,7 +44,10 @@ El esquema final normalizado consta de tablas estructuradas con sus respectivas 
 
 ## 💻 Script SQL (DDL)
 
-El script completo de creación de la base de datos y sus tablas con restricciones de integridad (DDL) se encuentra en `sql/esquema_deportes.sql`.
+El script `sql/esquema_deportes.sql` genera la base de datos `Deportes` completa: 13 tablas con sus claves primarias, claves foráneas y restricciones de integridad referencial.
+
+> 📌 **Alcance del proyecto:** Base de Datos I estuvo centrada en el modelado conceptual, la normalización y el diseño lógico relacional. Por eso el script cubre exclusivamente DDL (definición de estructuras), sin carga de datos ni consultas.
+
 
 ### Instrucciones de Ejecución:
 1. Clonar o descargar el repositorio.
