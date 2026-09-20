@@ -48,7 +48,7 @@ El script completo de creación de la base de datos y sus tablas con restriccion
 
 ### Instrucciones de Ejecución:
 1. Clonar o descargar el repositorio.
-2. Abrir tu gestor de base de datos MySQL (MySQL Workbench, phpMyAdmin, etc.)[cite: 3].
+2. Abrir tu gestor de base de datos MySQL (MySQL Workbench, phpMyAdmin, etc.).
 3. Ejecutar el script ubicado en `sql/esquema_deportes.sql` para generar la base de datos `Deportes` y todas sus relaciones de forma automatizada.
 
 ---
