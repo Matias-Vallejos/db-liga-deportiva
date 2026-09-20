@@ -1,3 +1,4 @@
+DROP DATABASE IF EXISTS Deportes;
 CREATE DATABASE Deportes;
 USE Deportes;
 CREATE TABLE Torneo (
