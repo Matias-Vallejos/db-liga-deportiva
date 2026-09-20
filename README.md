@@ -14,7 +14,6 @@ Proyecto final de **Base de Datos I** enfocado en el diseño, modelado conceptua
     - modelo_logico_mysql.png
   - doc/
     - caso_estudio.txt
-    - Parcial1VallejosMatias.docx
     - informe_modelado.docx
   - README.md
 
